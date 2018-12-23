@@ -1,1 +1,2 @@
 发布版本1.0的描述：新增了一个feature分支，并合并到了develop，在测试和部署完后合并到了master分支上
+git flow release finish release-name命令会自动合并到master分支和develop分支上，之后并删除该release分支
